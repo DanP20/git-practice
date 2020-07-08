@@ -1,3 +1,3 @@
-Name: Dan
+Name: DanParry
 Age: 30
 Favorite color: Red
